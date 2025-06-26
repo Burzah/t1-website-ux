@@ -165,6 +165,20 @@ body {
     margin-bottom: 4px;
 }
 
+.card-list > li {
+    margin-bottom: 16px;
+}
+
+.card-list ul {
+    padding-left: 20px;
+    margin-top: 6px;
+}
+
+.card-list ul li {
+    margin-bottom: 4px;
+}
+
+
 .info-card {
     background-color: rgba(255, 255, 255, 0.9);
     padding: 30px;
